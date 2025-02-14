@@ -81,3 +81,7 @@ public bool CheckHealth(string animalName)
 
 ![image](https://github.com/user-attachments/assets/7944df9d-da47-49a6-b883-695d6a78cefa) ![image](https://github.com/user-attachments/assets/773cee45-bfc1-4be4-ad40-ced381202605)
 
+## 6. Выполненные тесты
+Для покрытия кода так же было сделано несколько тестов, которые успешно прошли сборку.
+![image](https://github.com/user-attachments/assets/f40926fb-d946-4e6e-b29a-69ee2751a53c)
+
