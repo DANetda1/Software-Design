@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ASdFue2f/NA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arbuz\\source\\repos\\ZooApplication\\ZooApplication\\ZooApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arbuz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\arbuz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
