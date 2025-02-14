@@ -70,4 +70,5 @@ public bool CheckHealth(string animalName)
 
 ## 5. Установленные Nuget пакеты.
 Для применения DI-контейнера скачал пакет Microsoft.Extensions.DependencyInjection
+
 Для запуска тестов так же было скачано 2 пакета: Moq и Xunit
