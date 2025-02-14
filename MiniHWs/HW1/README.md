@@ -73,5 +73,6 @@ public bool CheckHealth(string animalName)
 ![image](https://github.com/user-attachments/assets/41a1515d-ebee-47f5-b296-4270c810abc9)
 
 Для запуска тестов так же было скачано 2 пакета: Moq и Xunit
+
 ![image](https://github.com/user-attachments/assets/7944df9d-da47-49a6-b883-695d6a78cefa) ![image](https://github.com/user-attachments/assets/773cee45-bfc1-4be4-ad40-ced381202605)
 
