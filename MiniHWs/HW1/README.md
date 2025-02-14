@@ -66,6 +66,7 @@ public bool CheckHealth(string animalName)
     Console.WriteLine($"Проверка здоровья животного \"{animalName}\"...");
     return new Random().Next(2) == 1;
 }
+```
 
 ## 5. Установленные Nuget пакеты.
 Для применения DI-контейнера скачал пакет Microsoft.Extensions.DependencyInjection
