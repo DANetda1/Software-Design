@@ -83,7 +83,8 @@
 1. **Скачайте** проект в этом репозитории.
 2. **Откройте** проект в Visual Studio / Rider / VS Code.
 3. **Установите** пакеты NuGet:
-   - `Microsoft.Extensions.DependencyInjection`
+   - `Microsoft.Extensions.DependencyInjection`      ![image](https://github.com/user-attachments/assets/a91022fc-8f1e-47bf-a57d-adde8f66c3d8)
+
    - `Newtonsoft.Json`
    - `YamlDotNet`
 4. **Соберите** проект.
