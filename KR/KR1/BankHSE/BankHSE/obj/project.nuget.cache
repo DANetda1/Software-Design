@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y7aF+SAHBMA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arbuz\\source\\repos\\BankHSE\\BankHSE\\BankHSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arbuz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\arbuz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\arbuz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\arbuz\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
