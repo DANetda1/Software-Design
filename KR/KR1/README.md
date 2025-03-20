@@ -86,8 +86,9 @@
    - `Microsoft.Extensions.DependencyInjection`      
    - `Newtonsoft.Json`
    - `YamlDotNet`
-  ![image](https://github.com/user-attachments/assets/a91022fc-8f1e-47bf-a57d-adde8f66c3d8)
-![image](https://github.com/user-attachments/assets/b3a8815b-5a28-4805-9e79-4545b6c49bc3)
+  
+  
+![image](https://github.com/user-attachments/assets/b3a8815b-5a28-4805-9e79-4545b6c49bc3) ![image](https://github.com/user-attachments/assets/a91022fc-8f1e-47bf-a57d-adde8f66c3d8)
 
 4. **Соберите** проект.
 5. **Запустите** (Run). Появится консольное меню:
