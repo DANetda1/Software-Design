@@ -1,0 +1,4 @@
+Life is full of surprises.
+You never know what to expect.
+
+Except maybe in a test file.

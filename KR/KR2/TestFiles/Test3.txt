@@ -1,0 +1,4 @@
+Sometimes you just want to test with a single line.
+
+
+That's totally fine.
