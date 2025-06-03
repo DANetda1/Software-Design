@@ -1,0 +1,192 @@
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.Readers.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\SharpYaml.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.sourcelink.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+C:\Users\ponom\RiderProjects\Big_HW\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.staticwebassets.endpoints.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.Readers.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\SharpYaml.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+C:\Users\arbuz\OneDrive\Рабочий стол\HSE\Software_Design_HSE_2025\Big_HW_2_Ponomarev\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\ApiGateway.staticwebassets.endpoints.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.Readers.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\SharpYaml.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+C:\Users\arbuz\source\repos\AntiplagiarismSolution\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
