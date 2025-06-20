@@ -185,6 +185,34 @@ docker-compose.yml              # Оркестрация контейнеров
 - **Консистентность** - Транзакционные границы
 - **Отказоустойчивость** - Retry механизмы RabbitMQ
 
+  ## Тестирование
+
+Реализованы модульные тесты для сервисов Orders и Payments. Тесты охватывают ключевую бизнес-логику:
+
+- **Orders**
+  - Создание заказов
+  - Валидация суммы заказа
+
+- **Payments**
+  - Создание аккаунта
+  - Пополнение и списание средств
+  - Обработка недостатка средств
+
+### Пример
+
+```csharp
+[Fact]
+public void Withdraw_With_Sufficient_Balance_Should_Decrease_Balance()
+{
+    var account = new Account(Guid.NewGuid());
+    account.TopUp(200);
+
+    account.Withdraw(150);
+
+    Assert.Equal(50, account.Balance);
+}
+```
+
 ## Решение проблем
 
 ### Контейнеры не запускаются
